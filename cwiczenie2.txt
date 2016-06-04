@@ -1,5 +1,0 @@
-lorem ipsum
-git init
-git add plik
-git commit -m 'opis migawki'
-git mv co gdzie
